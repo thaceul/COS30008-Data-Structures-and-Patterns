@@ -1,0 +1,4 @@
+﻿  ArraySorter.cpp
+C:\Go\Code\Visual studio projects\Data structures and patterns\assignment2\assignment2\ArraySorter.cpp(77,23): warning C4018: '<': signed/unsigned mismatch
+C:\Go\Code\Visual studio projects\Data structures and patterns\assignment2\assignment2\ArraySorter.cpp(80,15): warning C4018: '<': signed/unsigned mismatch
+  assignment2.vcxproj -> C:\Go\Code\Visual studio projects\Data structures and patterns\assignment2\Debug\assignment2.exe
